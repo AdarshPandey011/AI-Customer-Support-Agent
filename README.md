@@ -212,27 +212,6 @@ docker-compose up server
 - Input validation
 - Protected routes
 
-## 🚀 Deployment
-
-### Backend Deployment (Render/Railway/Vercel)
-
-1. Set environment variables in your hosting platform
-2. Ensure MongoDB Atlas connection string is configured
-3. Deploy the server directory
-
-### Frontend Deployment (Vercel/Netlify)
-
-1. Build the frontend: `npm run build`
-2. Deploy the `dist` folder
-3. Configure environment variables
-
-### Full Stack Deployment
-
-For full Docker deployment:
-1. Use a cloud provider that supports Docker (AWS ECS, Google Cloud Run, etc.)
-2. Configure environment variables
-3. Deploy using docker-compose or container orchestration
-
 ## 🐛 Troubleshooting
 
 ### MongoDB Connection Issues
