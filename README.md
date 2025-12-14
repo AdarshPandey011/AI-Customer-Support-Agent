@@ -252,16 +252,3 @@ VITE_API_URL=http://localhost:5000/api
 2. Create a feature branch
 3. Make your changes
 4. Submit a pull request
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 👨‍💻 Author
-
-Built as a full-stack challenge project demonstrating modern web development practices.
-
----
-
-**Note**: Make sure to change the `JWT_SECRET` in production and keep your API keys secure!
-
